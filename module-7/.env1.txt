@@ -1,4 +1,4 @@
-USER=root
+USER=movies_user
 PASSWORD=popcorn
 HOST=localhost
 DATABASE=movies
