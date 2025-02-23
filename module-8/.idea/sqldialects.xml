@@ -3,5 +3,6 @@
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/movies_update_and_delete.py" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/movies_update_and_delete.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../module09/outland_adventures.sql" dialect="MySQL" />
   </component>
 </project>
